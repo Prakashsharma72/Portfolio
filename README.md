@@ -23,6 +23,4 @@ The website serves as a digital resume that highlights my professional journey a
 ---
 
 ## 🚀 Getting Started
-1. [Clone the repository  
-   ```bash
-   git clone https://github.com/your-username/portfolio-website.git](https://prakashsharma72.github.io/Portfolio/)
+1. https://prakashsharma72.github.io/Portfolio/
