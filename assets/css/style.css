@@ -421,7 +421,7 @@ header .navbar ul li a:hover {
 .about .row .content .box-container {
   display: flex;
   flex-wrap: wrap;
-  gap: 1.5rem;
+  gap: 1.2rem;
   font-family: "Nunito";
   font-weight: 600;
 }
