@@ -39,9 +39,9 @@ $(document).ready(function () {
 
     // <!-- emailjs to mail contact form data -->
     $("#contact-form").submit(function (event) {
-        emailjs.init("user_TTDmetQLYgWCLzHTDgqxm");
+        emailjs.init("olzTEEThLdPUIURr0");
 
-        emailjs.sendForm('contact_service', 'template_contact', '#contact-form')
+        emailjs.sendForm('service_cz5geb5', 'template_15aspx8', '#contact-form')
             .then(function (response) {
                 console.log('SUCCESS!', response.status, response.text);
                 document.getElementById("contact-form").reset();
@@ -70,7 +70,7 @@ document.addEventListener('visibilitychange',
 
     // <!-- typed js effect starts -->
 var typed = new Typed(".typing-text", {
-    strings: ["Engineer", "developer", "Youtuber", "web developer"],
+    strings: ["Software Engineer", "Full Stack Developer", "Content Creator", "Web Developer, Mern Stack Developer", ],
     loop: true,
     typeSpeed: 50,
     backSpeed: 25,
